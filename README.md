@@ -16,6 +16,6 @@ My feature:
 
 
 ### Week 2:     
-... something new
+... something new, see you soon
 
 
