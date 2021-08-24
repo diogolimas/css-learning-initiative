@@ -11,7 +11,7 @@ Scroll-Smooth
 
 
 My feature: 
-![Alt](\assets\20210824_105907.gif)
+![Alt](./assets/20210824_105907.gif)
 
 
 ### Week 2: 
