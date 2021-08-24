@@ -1,0 +1,36 @@
+*{
+    margin:0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    position: fixed;
+    background-color: white;
+    height: 2rem;
+    width: 100%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section{
+    min-height: 100vh;
+    padding-top: 3rem;
+}
+
+#about{
+    background-color: rgb(132, 220, 168);
+}
+
+#services{
+    background-color: rgb(112, 176,218);
+}
+
+#contact{
+    background-color: rgb(255, 231, 49);
+}
