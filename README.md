@@ -14,7 +14,7 @@ My feature:
 ![Alt](\assets\20210824_105907.gif)
 
 
-### Week 2: 
+### Week 2:     
 ... something new
 
 
