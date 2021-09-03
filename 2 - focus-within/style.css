@@ -1,0 +1,23 @@
+html{
+	font-size: 80%;
+}
+body{
+	font-family: sans-serif;
+}
+
+form{
+	border: 2px solid lightgrey;
+  padding: .6rem;
+  border-radius: 0 .4rem .4rem .4rem;
+}
+
+textarea{
+  resize: none;
+  width: 100%;
+  outline: none;
+  border: none;
+}
+
+form:focus-within{
+  border: 2px solid #76F5AA;
+}
