@@ -15,6 +15,18 @@ My feature:
 ![Alt](./assets/20210824_105907.gif)
 
 
+##### Details:
+After use href to link section in your main content, you may just use this css selector and property:
+
+
+```
+html{
+    scroll-behavior: smooth;
+}
+```
+
+
+
 ### Week 2:     
 ... something new, see you soon
 
